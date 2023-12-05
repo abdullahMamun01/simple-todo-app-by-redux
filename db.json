@@ -1,0 +1,76 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "React js basic",
+      "completed": true,
+      "colors": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "color": "yellow",
+      "isSelected": false
+    },
+    {
+      "id": 2,
+      "text": "Node js basic",
+      "completed": false,
+      "colors": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "color": "yellow",
+      "isSelected": true
+    },
+    {
+      "id": 3,
+      "text": "Next js js basic",
+      "completed": false,
+      "colors": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "color": "red",
+      "isSelected": true
+    },
+    {
+      "text": "Angular js basic",
+      "completed": false,
+      "colors": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "color": "yellow",
+      "isSelected": true,
+      "id": 4
+    },
+    {
+      "text": "Learn Prisma",
+      "completed": false,
+      "colors": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "isSelected": true,
+      "id": 5,
+      "color": "green"
+    },
+    {
+      "text": "Learn GraphQl ",
+      "completed": false,
+      "colors": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "isSelected": true,
+      "id": 6,
+      "color": "yellow"
+    }
+  ]
+}
